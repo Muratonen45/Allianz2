@@ -1,0 +1,13 @@
+package staj.ordermanagementsystemapi;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class OrdermanagementsystemApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
